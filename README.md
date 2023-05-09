@@ -20,7 +20,7 @@ Add the corresponding benchmarks tag or directly tag the responsible `benchmarke
 
 Benchmark-specific requirements are independent of each other and can be adjusted at any timepoint. 
 To get started please fork this project and follow the below steps: 
-1. Add the `orchestrator_url`, and all valid `benchmark_names` to `general/benchmark_categories.yaml` 
+1. Add the `orchestrator_url`, and all valid `benchmark_names` to `general/benchmark_categories.json` 
 2. Generate a new subdirectory in `schemas/` for you benchmark. The name must be one of the valid `benchmark_names` (see 1.)
 3. Add all relevant schemas to your benchmark (see next section).
 4. Create a pull request with the tag `new_benchmark`  
