@@ -1,0 +1,13 @@
+---
+iris_example:
+    orchestrator_url: "https://renkulab.io/knowledge-graph/projects/omnibenchmark/iris_example/iris-orchestrator"
+    benchmark_names: "iris_example"
+omni_clustering:
+    orchestrator_url: "https://renkulab.io/knowledge-graph/projects/omnibenchmark/omni_clustering/orchestrator-clustering"
+    benchmark_names: "omni_clustering"
+omni_batch_py:
+    orchestrator_url: "https://renkulab.io/knowledge-graph/projects/omnibenchmark/omni-batch-py/orchestrator-py"
+    benchmark_names: ["omni_batch_py", "batch_integration_py", "omni-batch-py"]
+spatial-clustering:
+    orchestrator_url: "https://renkulab.io/knowledge-graph/projects/omb_benchmarks/omni_srt_clustering/orchestrator"
+    benchmark_names: "spatial-clustering"
