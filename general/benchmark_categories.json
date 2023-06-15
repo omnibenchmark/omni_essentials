@@ -14,5 +14,13 @@
     {
         "benchmark_names": "spatial-clustering",
         "orchestrator_url": "https://renkulab.io/knowledge-graph/projects/omb_benchmarks/omni_srt_clustering/orchestrator"
+    },
+    {
+        "benchmark_names": "omniclustering",
+        "orchestrator_url": "https://renkulab.io/gitlab/omb_benchmarks/omniclustering/orchestrator"
+    },
+    {
+        "benchmark_names": "omniclustering_pinned",
+        "orchestrator_url": "https://renkulab.io/gitlab/omb_benchmarks/omniclustering_pinned/orchestrator"
     }
 ]
