@@ -17,10 +17,10 @@
     },
     {
         "benchmark_names": "omniclustering",
-        "orchestrator_url": "https://renkulab.io/gitlab/omb_benchmarks/omniclustering/orchestrator"
+        "orchestrator_url": "https://gitlab.renkulab.io/omb_benchmarks/omniclustering/orchestrator"
     },
     {
         "benchmark_names": "omniclustering_pinned",
-        "orchestrator_url": "https://renkulab.io/gitlab/omb_benchmarks/omniclustering_pinned/orchestrator"
+        "orchestrator_url": "https://gitlab.renkulab.io/omb_benchmarks/omniclustering_pinned/orchestrator"
     }
 ]

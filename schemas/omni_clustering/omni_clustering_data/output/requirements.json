@@ -27,8 +27,8 @@
             "fields": "gene_id"}
     },
     "example": {
-        "config": "https://renkulab.io/gitlab/omnibenchmark/omni_clustering/koh/-/blob/master/src/config.yaml", 
-        "data": "https://renkulab.io/gitlab/omnibenchmark/omni_clustering/koh/-/tree/master/data/koh"
+        "config": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/koh/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/koh/-/tree/master/data/koh"
     }
 }
 

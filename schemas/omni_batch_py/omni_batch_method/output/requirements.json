@@ -28,8 +28,8 @@
             "substitutable_with":["corrected_counts"]}
     },
     "example": {
-        "config": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/omni-mnn-py/-/blob/master/src/config.yaml", 
-        "data": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/omni-mnn-py/-/tree/master/data/omni_mnn_py"
+        "config": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/omni-mnn-py/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/omni-mnn-py/-/tree/master/data/omni_mnn_py"
     }
 }
 

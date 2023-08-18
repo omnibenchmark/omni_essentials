@@ -27,8 +27,8 @@
             "fields": "gene_id"}
         }, 
     "example": {
-        "config": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/csf-patients-py/-/blob/master/src/config.yaml", 
-        "data": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/csf-patients-py/-/tree/master/data/csf_patient_py"
+        "config": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/csf-patients-py/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/csf-patients-py/-/tree/master/data/csf_patient_py"
     }
 
 }

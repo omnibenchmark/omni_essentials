@@ -30,8 +30,8 @@
             "fields": "(mandatory) a 'gene_id' with Ensembl IDs, (optional) field(s) with boolean values that state whether the genes are HVG for a particular method."}
         },
     "example": {
-        "config": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/omni-batch-processed-py/-/blob/master/src/config.yaml", 
-        "data": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/omni-batch-processed-py/-/tree/master/data/omni_batch_processed_py"
+        "config": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/omni-batch-processed-py/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/omni-batch-processed-py/-/tree/master/data/omni_batch_processed_py"
     }
 }
  

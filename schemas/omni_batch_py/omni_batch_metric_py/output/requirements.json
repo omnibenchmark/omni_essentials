@@ -22,8 +22,8 @@
         }   
     },
     "example": {
-        "config": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/omni-mnn-py/-/blob/master/src/config.yaml", 
-        "data": "https://renkulab.io/gitlab/omnibenchmark/omni-batch-py/cms-py/-/tree/master/data/cms_py"
+        "config": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/omni-mnn-py/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omnibenchmark/omni-batch-py/cms-py/-/tree/master/data/cms_py"
     }
 }
 

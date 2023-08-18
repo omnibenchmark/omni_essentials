@@ -18,11 +18,11 @@
             "end": "json",
             "description": "Metric results (numeric value) for each clustering output.", 
             "fields": "", 
-            "example": "https://renkulab.io/gitlab/omnibenchmark/omni_clustering/adjusted-rand-index/-/blob/master/data/adjusted_rand_index_clust"}
+            "example": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/adjusted-rand-index/-/blob/master/data/adjusted_rand_index_clust"}
         },
     "example": {
-        "config": "https://renkulab.io/gitlab/omnibenchmark/omni_clustering/adjusted-rand-index/-/blob/master/src/config.yaml", 
-        "data": "https://renkulab.io/gitlab/omnibenchmark/omni_clustering/adjusted-rand-index/-/blob/master/data/adjusted_rand_index_clust"
+        "config": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/adjusted-rand-index/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/adjusted-rand-index/-/blob/master/data/adjusted_rand_index_clust"
     }
 }
 
