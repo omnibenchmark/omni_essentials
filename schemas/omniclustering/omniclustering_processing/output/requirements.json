@@ -28,8 +28,8 @@
         }
     },
     "example": {
-        "config": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/filter-expression/-/blob/master/src/config.yaml", 
-        "data": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/filter-expression/-/tree/master/data/filter_expression"
+        "config": "https://gitlab.renkulab.io/omb_benchmarks/omniclustering/processing-filteringexpr-clustering/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omb_benchmarks/omniclustering/processing-filteringexpr-clustering/-/tree/master/data/processing-filteringexpr-clustering"
     }
 }
 

@@ -23,8 +23,8 @@
         }
     },
     "example": {
-        "config": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/pca-hc/-/blob/master/src/config.yaml", 
-        "data": "https://gitlab.renkulab.io/omnibenchmark/omni_clustering/pca-hc/-/tree/master/data/pca-hc"
+        "config": "https://gitlab.renkulab.io/omb_benchmarks/omniclustering/method_FlowSOM_clustering/-/blob/main/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/omb_benchmarks/omniclustering/method_FlowSOM_clustering/-/tree/main/data"
     }
 }
 
