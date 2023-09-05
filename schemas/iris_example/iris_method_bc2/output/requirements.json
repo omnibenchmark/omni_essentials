@@ -1,0 +1,20 @@
+{
+    "Description": "A description of the required file outputs. In addition to the presence of the required files, omniValidator will also check some fields described below (e.g. file extension, 'end' field).",
+    "fields": {
+        "description": "A description of the required file", 
+        "end": "File extension for this file type", 
+        "fields": "Required fields/ attributes of the outputs."
+    },
+    "outputs_files": {
+        "method_result1": {
+            "end": "rds",
+            "description": "Trained model from the caret package.", 
+            "fields": "NA"
+        }
+    },
+    "example": {
+        "config": "https://gitlab.renkulab.io/anthony.sonrel/iris-method-bc2-anthonysonrel1ecd/-/blob/master/src/config.yaml", 
+        "data": "https://gitlab.renkulab.io/anthony.sonrel/iris-method-bc2-anthonysonrel1ecd/-/tree/master/data"
+    }
+}
+
