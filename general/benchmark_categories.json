@@ -22,5 +22,9 @@
     {
         "benchmark_names": "omniclustering_pinned",
         "orchestrator_url": "https://renkulab.io/knowledge-graph/projects/omb_benchmarks/omniclustering_pinned/orchestrator"
+    },
+    {
+        "benchmark_names": "CCC_benchmark",
+        "orchestrator_url": "https://renkulab.io/knowledge-graph/projects/omb_benchmarks/ccc_benchmark/orchestrator"
     }
 ]
