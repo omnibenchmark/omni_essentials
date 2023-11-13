@@ -26,9 +26,5 @@
     {
         "benchmark_names": "CCC_benchmark",
         "orchestrator_url": "https://renkulab.io/knowledge-graph/projects/omb_benchmarks/ccc_benchmark/orchestrator"
-    },
-    {
-        "benchmark_names": "iris_example_dev",
-        "orchestrator_url": "https://dev.renku.ch/knowledge-graph/projects/omnibenchmark/iris_example/iris-orchestrator"
     }
 ]
